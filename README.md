@@ -1,4 +1,5 @@
 **STEPS:**
 - npm install -g xmysql 
-- xmysql -h localhost -u root -d employees 
+- download sql files into mysql
+- xmysql -h localhost -u root -d employees *(xmysql -h localhost -u mysqlUsername -p mysqlPassword -d databaseName)*
 - http://localhost:3000
