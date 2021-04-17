@@ -1,6 +1,6 @@
 **STEPS:**
 - download sql files into mysql 
-- 
+
 <img src="/images/mysql.png">
 
 - npm install -g xmysql
